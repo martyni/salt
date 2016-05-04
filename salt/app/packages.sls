@@ -3,6 +3,7 @@ common_packages:
     - pkgs:
       - python-pip
       - git
+      - supervisor
 
 python_packages:
   pip.installed:
